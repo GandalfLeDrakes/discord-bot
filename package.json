@@ -9,7 +9,7 @@
     "discord.js": "^12.5.3"
   },
   "scripts": {
-    "start": "node your-script.js",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
