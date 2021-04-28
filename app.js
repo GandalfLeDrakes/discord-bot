@@ -14,4 +14,4 @@ client.on('message', (msg) => { // Jusqu'au "}" affiché plus bas, il ne faut me
     msg.channel.send("Pong ! :ping_pong:")
 }
 }          
-client.login("ODM3MDI3MzIxMDY4MTI2MjM5.YImkcA.H7eRMrhhHr8dFX6WR_e4ZecSE-Q");
+client.login(process.env.TOKEN);
